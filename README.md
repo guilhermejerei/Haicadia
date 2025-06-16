@@ -8,7 +8,8 @@ Sistema de Interface
 ←↑→
  ↓
 
-Mouse - direção de habilidades; Click-Esquerdo - Ataque básico;
+Mouse - direção de habilidades; 
+Click-Esquerdo - Ataque básico;
 
 Q - Habilidade primária;
 
