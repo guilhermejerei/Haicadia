@@ -4,6 +4,10 @@ Projeto de jogo RPG - seleção de personagens e habilidades;
 Jogabilidade: 
 movimentação (W A S D);
 
+Sistema de Interface
+←↑→
+ ↓
+
 Mouse - direção de habilidades; Click-Esquerdo - Ataque básico;
 
 Q - Habilidade primária;
