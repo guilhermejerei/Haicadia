@@ -1,4 +1,4 @@
-# Haicadia
+# Projeto de JOGO
 Projeto de jogo RPG - seleção de personagens e habilidades;
 
 Jogabilidade: 
